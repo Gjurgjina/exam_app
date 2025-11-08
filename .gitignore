@@ -1,0 +1,30 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+
+# Android related
+android/.gradle/
+android/app/build/
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Generated.xcconfig
+
+# VS Code related
+.vscode/
+
+# IntelliJ related
+*.iml
+.idea/
+
+# Misc
+*.log
+*.lock
